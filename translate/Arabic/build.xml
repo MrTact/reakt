@@ -1,5 +1,5 @@
 <!-- Note: builds are IDE only at present -->
-<project name="reakt" basedir=".">
+<project name="привет" basedir=".">
     <target name="hack-source-maps">
         <replace file="todo/js/app/reakt.js.map"
                  token="file:///Users/andrew/Dev/Projects/reakt/"
